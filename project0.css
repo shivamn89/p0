@@ -1,0 +1,18 @@
+
+#tik{
+    text-align: right;
+}
+#tit{
+    margin-left: 480px;
+    display: flex;
+    flex-direction:row;
+    font-size: 50px; 
+}
+div{
+    text-align: center;
+}
+#tat{
+    display: flex;
+    flex-direction: row;
+    margin-left: 430px;
+}
